@@ -1,0 +1,11 @@
+{
+  "name": "Silver Ore",
+  "description": "Known as argentite (Ag2S), Refine to silver bars at a raito of 5 ore to 4 bars.",
+  "varients": "3",
+  "edge": "stone",
+  "isLiquid": "false",
+  "itemDrop": "unrefined-silver",
+  "oreDefault": "true",
+  "oreScale": 20,
+  "oreThreshold": 0.75
+}

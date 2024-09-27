@@ -2,7 +2,7 @@
   "name": "Copper Coin",
   "description": "Hold the least value, can be made from copper ore and forms copper bar. 100 copper coins is equal to 1 silver coin.",
   "type": "material",
-  "color": "eeeeee",
+  "color": "b87333",
   "explosiveness": 0,
   "flammability": 0,
   "radioactivity": 0,

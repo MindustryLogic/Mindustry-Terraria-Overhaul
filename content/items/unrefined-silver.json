@@ -1,7 +1,7 @@
 {
   "name": "Unrefined Silver",
-  "description": "Raw silver ore, refine it.",
+  "description": "Raw silver ore, refine it.Raito is 5 to 4",
   "type": "material",
-  "hardness": "2.5",
+  "hardness": "3",
   "alwaysUnlocked": "true"
 }

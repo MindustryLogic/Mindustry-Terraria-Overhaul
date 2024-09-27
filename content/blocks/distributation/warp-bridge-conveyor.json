@@ -1,0 +1,11 @@
+{
+    "type": "ItemBridge",
+    "name": "Insta-Move",
+    "description": "Why should the terrarian suffer the hell of conveyor?",
+    "health": 13767256,
+	"itemCapacity": 9999,
+    "range": 32767,
+    "instantTransfer": "true",
+    "hasPower": false,
+    "category": "distribution"
+}
