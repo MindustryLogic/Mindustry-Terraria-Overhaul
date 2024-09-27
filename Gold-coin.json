@@ -1,0 +1,12 @@
+{
+  "name": "Gold Coin",
+  "description": "Hold more value, can be made from gold ore and forms gold bar. 100 gold coins is equal to 1 platium coin.",
+  "type": "material",
+  "color": "ffd700",
+  "explosiveness": 0,
+  "flammability": 0,
+  "radioactivity": 0,
+  "alwaysUnlocked": "false",
+  "research": "silver-coin"
+}
+  
