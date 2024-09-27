@@ -1,0 +1,7 @@
+{
+  "name": "Unrefined Silver",
+  "description": "Raw silver ore, refine it.",
+  "type": "material",
+  "hardness": "2.5",
+  "alwaysUnlocked": "true"
+}
