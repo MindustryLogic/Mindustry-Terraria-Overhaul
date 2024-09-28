@@ -2,10 +2,15 @@
     "type": "ItemBridge",
     "name": "Insta-Move",
     "description": "Why should the terrarian suffer the hell of conveyor?",
-    "health": 13767256,
-	"itemCapacity": 9999,
-    "range": 32767,
+    "health": 137,
+	"itemCapacity": 100,
+    "requirements": [
+    "mindustry-terraria-overhaul-copper-coin/1"
+    ],
+    "range": 250,
     "instantTransfer": "true",
     "hasPower": false,
-    "category": "distribution"
+    "category": "distribution",
+    "alwaysUnlock": "true",
+    "research": "duo"
 }
