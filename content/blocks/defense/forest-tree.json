@@ -1,6 +1,6 @@
 {
     "name": "tree",
-    "type": "TreeBlock",
+    "type": "block",
     "buildVisibility": "sandboxOnly",
     "unloadable": "false",
     "size": "1",
