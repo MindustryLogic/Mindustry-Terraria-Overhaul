@@ -1,0 +1,57 @@
+{
+    "name": "Coin Combiner",
+    "type": "multicraft.MultiCrafter",
+    "description": "Combines your coins.",
+    "health": "234",
+    "size": "2",
+    "requirements": [
+    "copper/1"
+    ],
+    "alwaysUnlcok": "true",
+    "recipes": [
+  {
+    "input": "mindustry-terraria-overhaul-copper-coin/100",
+    "output": {
+      "items": [
+        "mindustry-terraria-overhaul-silver-coin/1"
+      ],
+      "power": 0,
+      "icon": "mindustry-terraria-overhaul-silver-coin"
+    },
+    "craftTime": 20.0
+  },
+  {
+    "input": "mindustry-terraria-overhaul-silver-coin/100",
+    "output": {
+      "items": [
+        "mindustry-terraria-overhaul-gold-coin/1"
+      ],
+      "power": 0,
+      "icon": "mindustry-terraria-overhaul-gold-coin"
+    },
+    "craftTime": 20.0
+  },
+  {
+    "input": "mindustry-terraria-overhaul-gold-coin/100",
+    "output": {
+      "items": [
+        "mindustry-terraria-overhaul-platinum-coin/1"
+      ],
+      "power": 0,
+      "icon": "mindustry-terraria-overhaul-platinum-coin"
+    },
+    "craftTime": 20.0
+  }
+  {
+    "input": "mindustry-terraria-overhaul-platinum-coin/100",
+    "output": {
+      "items": [
+        "mindustry-terraria-overhaul-iridium-coin/1"
+      ],
+      "power": 0,
+      "icon": "mindustry-terraria-overhaul-iridium-coin"
+    },
+    "craftTime": 20.0
+  }
+]
+}
