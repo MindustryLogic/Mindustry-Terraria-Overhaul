@@ -1,5 +1,5 @@
 {
-    "name": "Coin Combiner",
+    "name": "Coin Converter",
     "type": "multicraft.MultiCrafter",
     "description": "Combines your coins.",
     "health": "234",
