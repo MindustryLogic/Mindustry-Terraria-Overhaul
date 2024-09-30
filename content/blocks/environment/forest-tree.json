@@ -1,0 +1,11 @@
+{
+    "name": "tree",
+    "type": "TreeBlock",
+    "buildVisibility": "sandboxOnly",
+    "unloadable": "false",
+    "size": "1",
+    "requirments": [
+        "mindustry-terraria-overhaul-wood/21"
+    ],
+    "targetable": "false"
+}
