@@ -1,6 +1,7 @@
 {
   "name": "Silver Ore",
   "type": "OreBlock",
+  "placeableOn": "true",
   "description": "Known as argentite (Ag2S), Refine to silver bars at a raito of 5 ore to 4 bars.",
   "varients": "3",
   "edge": "stone",
