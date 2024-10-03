@@ -1,0 +1,16 @@
+{
+    "name": "THE MASS DRIVER",
+    "description": "The only mass driver you need",
+    "type": "MassDriver",
+    "health": "1",
+    "size": "1",
+    "rotateSpeed": 1,
+    "reloadTime": 1,
+    "minDistribute": "1",
+    "alwaysUnlock": "true",
+    "itemCapacity": "9999",
+    "hasPower": "false",
+    "requirements": [
+    ],
+    "catrgory": "distribution"
+}
