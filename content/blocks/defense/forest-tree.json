@@ -1,6 +1,8 @@
 {
     "name": "tree",
-    "type": "block",
+    "variants": 0,
+    "type": "wall",
+    "solid": "false",
     "buildVisibility": "sandboxOnly",
     "unloadable": "false",
     "size": "1",
