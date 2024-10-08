@@ -10,5 +10,5 @@
     "drag": 0.5,
     "flying": "false",
     "alwaysUnlocked": "true",
-    "itemCapacity": "100",
+    "itemCapacity": "100"
 }
