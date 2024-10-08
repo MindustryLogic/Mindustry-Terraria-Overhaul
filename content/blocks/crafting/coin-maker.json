@@ -20,6 +20,16 @@
       "icon": "mindustry-terraria-overhaul-copper-coin"
     },
     "craftTime": 25.0
+  },
+  {
+    "input": "mindustry-terraria-overhaul-copper-bar/1",
+    "output": {
+      "items": [
+        "mindustry-terraria-overhaul-copper-coin/50", "mindustry-terraria-overhaul-silver-coin/1"
+      ],
+      "power": 0,
+      "icon": "mindustry-terraria-overhaul-copper-bar"
+    }
   }
 ],
 "category": "production"
