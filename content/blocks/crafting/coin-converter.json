@@ -41,7 +41,7 @@
       "icon": "mindustry-terraria-overhaul-platinum-coin"
     },
     "craftTime": 20.0
-  }
+  },
   {
     "input": "mindustry-terraria-overhaul-platinum-coin/100",
     "output": {
@@ -53,5 +53,6 @@
     },
     "craftTime": 20.0
   }
-]
+],
+"category": "production"
 }

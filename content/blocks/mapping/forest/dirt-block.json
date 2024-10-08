@@ -1,0 +1,9 @@
+{
+    "name": "Dirt Block",
+    "type": "defense",
+    "solid": "true",
+    "requirments": [
+        "mindustry-terraria-overhaul-dirt-block/1"
+    ],
+    "category": "defense"
+}
