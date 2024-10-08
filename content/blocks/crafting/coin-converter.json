@@ -4,10 +4,11 @@
     "description": "Combines your coins.",
     "health": "234",
     "size": "2",
+    "targetable": "false",
     "requirements": [
     "copper/1"
     ],
-    "alwaysUnlcok": "true",
+    "alwaysUnlocked": "true",
     "recipes": [
   {
     "input": "mindustry-terraria-overhaul-copper-coin/100",

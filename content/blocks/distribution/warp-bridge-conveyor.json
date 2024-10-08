@@ -11,6 +11,6 @@
     "instantTransfer": "true",
     "hasPower": false,
     "category": "distribution",
-    "alwaysUnlock": "true",
-    "research": "duo"
+    "alwaysUnlocked": "true",
+    "targetable": "false"
 }

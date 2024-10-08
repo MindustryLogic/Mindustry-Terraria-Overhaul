@@ -1,9 +1,12 @@
 {
     "name": "Dirt Block",
-    "type": "defense",
+    "type": "wall",
     "solid": "true",
+    "size": "1",
     "requirments": [
         "mindustry-terraria-overhaul-dirt-block/1"
     ],
-    "category": "defense"
+    "category": "defense",
+    "alwaysUnlocked": "true",
+    "targetable": "false"
 }

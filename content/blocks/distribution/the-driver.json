@@ -8,10 +8,11 @@
     "rotateSpeed": 1,
     "reloadTime": 1,
     "minDistribute": "1",
-    "alwaysUnlock": "true",
+    "alwaysUnlocked": "true",
     "itemCapacity": "9999",
     "hasPower": "false",
     "requirements": [
     ],
-    "catrgory": "distribution"
+    "catrgory": "distribution",
+    "targetable": "false"
 }

@@ -4,10 +4,11 @@
     "description": "convert your ores/bars into coins",
     "health": "132",
     "size": "2",
+    "targetable": "false",
     "requirements": [
     "mindustry-terraria-overhaul-wood/1"
     ],
-    "alwaysUnlcok": "true",
+    "alwaysUnlocked": "true",
     "recipes": [
   {
     "input": "copper/1",
