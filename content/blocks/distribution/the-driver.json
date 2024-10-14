@@ -5,6 +5,11 @@
     "range": "5000",
     "health": "1",
     "size": "1",
+    "shootType": {
+        "type": "driverBolt",
+        "lifetime": 300,
+        "speed": 200
+    },
     "rotateSpeed": 1,
     "reloadTime": 1,
     "minDistribute": "1",
