@@ -4,7 +4,7 @@
     "solid": "true",
     "size": "1",
     "requirements": [
-        "mindtera-sand-block/1"
+        "mindtera-sand-item/1"
     ],
     "category": "defense",
     "alwaysUnlocked": "true",
