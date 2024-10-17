@@ -5,7 +5,7 @@
     "health": 137,
 	"itemCapacity": 100,
     "requirements": [
-    "mindustry-terraria-overhaul-copper-coin/1"
+    "copper-coin/1"
     ],
     "range": 250,
     "instantTransfer": "true",

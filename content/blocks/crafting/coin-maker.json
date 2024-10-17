@@ -6,7 +6,7 @@
     "size": "2",
     "targetable": "false",
     "requirements": [
-    "mindustry-terraria-overhaul-wood/1"
+    "wood/1"
     ],
     "alwaysUnlocked": "true",
     "recipes": [
@@ -14,22 +14,34 @@
     "input": "copper/1",
     "output": {
       "items": [
-        "mindustry-terraria-overhaul-copper-coin/50"
+        "copper-coin/50"
       ],
       "power": 0,
-      "icon": "mindustry-terraria-overhaul-copper-coin"
+      "icon": "copper-coin"
     },
     "craftTime": 25.0
   },
   {
-    "input": "mindustry-terraria-overhaul-copper-bar/1",
+    "input": "copper-bar/1",
     "output": {
       "items": [
-        "mindustry-terraria-overhaul-copper-coin/50", "mindustry-terraria-overhaul-silver-coin/1"
+        "copper-coin/50", "silver-coin/1"
       ],
       "power": 0,
-      "icon": "mindustry-terraria-overhaul-copper-bar"
-    }
+      "icon": "copper-bar"
+    },
+    "craftTime": 25.0
+  },
+  {
+    "input": "silver-bar/1",
+    "output": {
+      "items": [
+        "silver-coin/6"
+      ],
+      "power": 0,
+      "icon": "silver-bar"
+    },
+    "craftTime": 25.0
   }
 ],
 "category": "crafting"

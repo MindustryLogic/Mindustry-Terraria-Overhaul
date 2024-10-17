@@ -1,0 +1,33 @@
+{
+    "name": "Furnace",
+    "type": "multicraft.MultiCrafter",
+    "description": "A basic furnace made from stone. Strangely does not require any fuel.",
+    "size": "2",
+    "health": "255",
+    "targetable": "false",
+    "requirements": [
+        "copper-bar/5",
+        "silver-coin/10"
+    ],
+    "recipes": [
+        {
+            "input": "unrefined-silver/5",
+            "output": {
+                "items": [
+                    "silver-bar/4"
+                ]
+            },
+            "craftTime": 0
+        },
+        {
+            "input": "copper-ore/3",
+            "output": {
+                "items": [
+                    "copper-bar/1"
+                ]
+            },
+            "craftTime":0
+        }
+    ],
+    "category": "crafting"
+}
