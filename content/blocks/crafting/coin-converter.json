@@ -11,46 +11,46 @@
     "alwaysUnlocked": "true",
     "recipes": [
   {
-    "input": "copper-coin/100",
+    "input": "mindtera-copper-coin/100",
     "output": {
       "items": [
-        "silver-coin/1"
+        "mindtera-silver-coin/1"
       ],
       "power": 0,
-      "icon": "silver-coin"
+      "icon": "mindtera-silver-coin"
     },
     "craftTime": 20.0
   },
   {
-    "input": "silver-coin/100",
+    "input": "mindtera-silver-coin/100",
     "output": {
       "items": [
-        "gold-coin/1"
+        "mindtera-gold-coin/1"
       ],
       "power": 0,
-      "icon": "gold-coin"
+      "icon": "mindtera-gold-coin"
     },
     "craftTime": 20.0
   },
   {
-    "input": "gold-coin/100",
+    "input": "mindtera-gold-coin/100",
     "output": {
       "items": [
-        "platinum-coin/1"
+        "mindtera-platinum-coin/1"
       ],
       "power": 0,
-      "icon": "platinum-coin"
+      "icon": "mindtera-platinum-coin"
     },
     "craftTime": 20.0
   },
   {
-    "input": "platinum-coin/100",
+    "input": "mindtera-platinum-coin/100",
     "output": {
       "items": [
-        "iridium-coin/1"
+        "mindtera-iridium-coin/1"
       ],
       "power": 0,
-      "icon": "iridium-coin"
+      "icon": "mindtera-iridium-coin"
     },
     "craftTime": 20.0
   }
