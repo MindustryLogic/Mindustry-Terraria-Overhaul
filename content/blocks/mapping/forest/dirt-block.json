@@ -3,8 +3,8 @@
     "type": "wall",
     "solid": "true",
     "size": "1",
-    "requirments": [
-        "mindustry-terraria-overhaul-dirt-block/1"
+    "requirements": [
+        "mindtera-dirt-block/1"
     ],
     "category": "defense",
     "alwaysUnlocked": "true",

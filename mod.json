@@ -1,6 +1,7 @@
 {
 "name": "Mindustry-Terraria-Overhaul",
 "displayName": "Terraria On Mindustry",
+"internalName": "mindtera",
 "author": "MindustryLogic",
 "description": "A extremely ambitious project on attempting to recreate terraria within the limit of mindustry(Major RAM usage warning)",
 "version": "0.0.1 basic function",

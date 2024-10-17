@@ -11,46 +11,46 @@
     "alwaysUnlocked": "true",
     "recipes": [
   {
-    "input": "mindustry-terraria-overhaul-copper-coin/100",
+    "input": "mindtera-copper-coin/100",
     "output": {
       "items": [
-        "mindustry-terraria-overhaul-silver-coin/1"
+        "mindtera-silver-coin/1"
       ],
       "power": 0,
-      "icon": "mindustry-terraria-overhaul-silver-coin"
+      "icon": "mindtera-silver-coin"
     },
     "craftTime": 20.0
   },
   {
-    "input": "mindustry-terraria-overhaul-silver-coin/100",
+    "input": "mindtera-silver-coin/100",
     "output": {
       "items": [
-        "mindustry-terraria-overhaul-gold-coin/1"
+        "mindtera-gold-coin/1"
       ],
       "power": 0,
-      "icon": "mindustry-terraria-overhaul-gold-coin"
+      "icon": "mindtera-gold-coin"
     },
     "craftTime": 20.0
   },
   {
-    "input": "mindustry-terraria-overhaul-gold-coin/100",
+    "input": "mindtera-gold-coin/100",
     "output": {
       "items": [
-        "mindustry-terraria-overhaul-platinum-coin/1"
+        "mindtera-platinum-coin/1"
       ],
       "power": 0,
-      "icon": "mindustry-terraria-overhaul-platinum-coin"
+      "icon": "mindtera-platinum-coin"
     },
     "craftTime": 20.0
   },
   {
-    "input": "mindustry-terraria-overhaul-platinum-coin/100",
+    "input": "mindtera-platinum-coin/100",
     "output": {
       "items": [
-        "mindustry-terraria-overhaul-iridium-coin/1"
+        "mindtera-iridium-coin/1"
       ],
       "power": 0,
-      "icon": "mindustry-terraria-overhaul-iridium-coin"
+      "icon": "mindtera-iridium-coin"
     },
     "craftTime": 20.0
   }
