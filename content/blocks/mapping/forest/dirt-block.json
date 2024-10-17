@@ -4,7 +4,7 @@
     "solid": "true",
     "size": "1",
     "requirements": [
-        "dirt-block/1"
+        "mindtera-dirt-block/1"
     ],
     "category": "defense",
     "alwaysUnlocked": "true",

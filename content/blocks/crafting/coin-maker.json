@@ -6,7 +6,7 @@
     "size": "2",
     "targetable": "false",
     "requirements": [
-    "wood/1"
+    "mindtera-wood/1"
     ],
     "alwaysUnlocked": "true",
     "recipes": [
@@ -14,32 +14,32 @@
     "input": "copper/1",
     "output": {
       "items": [
-        "copper-coin/50"
+        "mindtera-copper-coin/50"
       ],
       "power": 0,
-      "icon": "copper-coin"
+      "icon": "mindtera-copper-coin"
     },
     "craftTime": 25.0
   },
   {
-    "input": "copper-bar/1",
+    "input": "mindtera-copper-bar/1",
     "output": {
       "items": [
         "copper-coin/50", "silver-coin/1"
       ],
       "power": 0,
-      "icon": "copper-bar"
+      "icon": "mindtera-copper-bar"
     },
     "craftTime": 25.0
   },
   {
-    "input": "silver-bar/1",
+    "input": "mindtera-silver-bar/1",
     "output": {
       "items": [
-        "silver-coin/6"
+        "mindtera-silver-coin/6"
       ],
       "power": 0,
-      "icon": "silver-bar"
+      "icon": "mindtera-silver-bar"
     },
     "craftTime": 25.0
   }
