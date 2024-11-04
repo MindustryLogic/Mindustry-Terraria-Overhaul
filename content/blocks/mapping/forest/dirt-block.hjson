@@ -5,6 +5,6 @@ size: 1
 requirements: [
     mindtera-dirt-item/1
 ]
-category: defence
+category: defense
 alwaysUnlocked: true
 targetable: false
