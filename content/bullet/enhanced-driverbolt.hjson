@@ -1,0 +1,6 @@
+type: MassDriverBolt
+name: db2
+lifetime: 2000
+speed: 300
+drag: 0
+bulletSprite: shell

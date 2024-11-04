@@ -1,0 +1,5 @@
+name: Unrefined Silver
+description: Raw silver ore refine it.Raito is 5 to 4
+type: material
+hardness: 3
+alwaysUnlocked: true

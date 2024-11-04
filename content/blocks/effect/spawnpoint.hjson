@@ -7,3 +7,7 @@ itemCapacity: 9999
 requirements: [
 ]
 category: effect
+research: {
+  root: true
+  requiresUnlock: false
+}

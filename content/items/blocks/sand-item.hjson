@@ -1,0 +1,8 @@
+name: Sand block
+description: It's Sand
+type: material
+color: 3d3c3a
+explosiveness: 0
+flammability: 0
+radioactivity: 0
+alwaysUnlocked: ture

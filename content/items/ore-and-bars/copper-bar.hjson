@@ -1,0 +1,4 @@
+name: Copper Bar
+description: A bar of refined copper
+type: material
+alwaysUnlocked: true

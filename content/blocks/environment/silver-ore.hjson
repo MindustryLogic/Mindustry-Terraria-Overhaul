@@ -1,0 +1,5 @@
+type: OreBlock
+itemDrop: unrefined-silver
+oreDefault: true
+oreScale: 20
+oreThreshold: 0.75
