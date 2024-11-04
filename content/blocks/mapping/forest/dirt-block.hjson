@@ -1,0 +1,10 @@
+name: Dirt Block
+type: Wall
+solid: true
+size: 1
+requirements: [
+    mindtera-dirt-item/1
+]
+category: defence
+alwaysUnlocked: true
+targetable: false
