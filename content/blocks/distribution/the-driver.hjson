@@ -1,0 +1,22 @@
+name: THE MASS DRIVER
+description: The only mass driver you need
+type: MassDriver
+range: 5000
+health: 1
+size: 1
+shootType: {
+    type: MassDriverBolt
+    lifetime: 300
+    speed: 500
+}
+rotateSpeed: 1
+reloadTime: 1
+minDistribute: 1
+alwaysUnlocked: true
+itemCapacity: 9999
+hasPower: false
+requirements: [
+]
+catrgory: distribution
+targetable: false
+

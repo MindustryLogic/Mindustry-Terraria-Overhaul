@@ -1,0 +1,9 @@
+type: CoreBlcok
+size: 1
+health: 500
+isFirstTier: true
+targetable: false
+itemCapacity: 9999
+requirements: [
+]
+category: effect
