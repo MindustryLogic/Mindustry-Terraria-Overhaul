@@ -2,9 +2,9 @@ type: block
 name: Sand block
 solid: true
 size: 1
-requirements": [
+requirements: [
     mindtera-sand-item/1
 ]
-category": defense
+category: defense
 alwaysUnlocked: true
 targetable: false
