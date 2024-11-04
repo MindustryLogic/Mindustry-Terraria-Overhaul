@@ -6,7 +6,8 @@
 "description": "A extremely ambitious project on attempting to recreate terraria within the limit of mindustry(Major RAM usage warning)",
 "version": "0.0.1 basic function",
 "dependencies": [
-"multi-crafter"
+"multi-crafter",
+"terraria-content-mod"
 ],
 "minGameVersion": "146"
 }
