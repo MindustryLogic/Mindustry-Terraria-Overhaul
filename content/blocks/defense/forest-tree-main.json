@@ -1,13 +1,13 @@
 {
-    "name": "tree",
-    "variants": 0,
-    "type": "wall",
+    "name": "forest tree main",
+    "variants": "3",
+    "type": "Wall",
     "solid": "false",
     "buildVisibility": "sandboxOnly",
     "unloadable": "false",
     "size": "1",
      "requirments": [
-        "wood/21"
+        "wood/2"
     ],
     "targetable": "false"
 }
