@@ -1,0 +1,10 @@
+type: block
+name: Stone block
+solid: true
+size: 1
+requirements: [
+    mindtera-stone-item/1
+]
+category: defense
+alwaysUnlocked: true
+targetable: false
