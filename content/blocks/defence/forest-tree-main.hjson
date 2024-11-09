@@ -9,3 +9,4 @@ requirments: [
     wood/2
 ]
 targetable: false
+category: defense
