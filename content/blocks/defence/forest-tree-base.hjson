@@ -1,0 +1,11 @@
+name: forest tree base
+type: Wall
+solid: false
+buildVisibility: sandboxOnly
+unloadable: false
+size: 1
+requirments: [
+    wood/5
+]
+targetable: false
+category: defense

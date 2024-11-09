@@ -1,0 +1,11 @@
+name: forest tree top
+type: Wall
+solid: false
+buildVisibility: sandboxOnly
+unloadable: false
+size: 1
+requirments: [
+    wood/3
+]
+targetable: false
+category: defense
