@@ -1,4 +1,4 @@
-type: CoreBlcok
+type: CoreBlock
 size: 1
 health: 500
 isFirstTier: true
