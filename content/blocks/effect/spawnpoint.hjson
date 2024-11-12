@@ -5,9 +5,15 @@ isFirstTier: true
 targetable: false
 itemCapacity: 9999
 requirements: [
+copper-coin/100
+wood/1
 ]
+destorySound: none
 category: effect
 research: {
+  planet: terraria
+  name:Terraria
   root: true
   requiresUnlock: false
 }
+alwaysUnlocked: true
